@@ -5,7 +5,11 @@ body{
 :root{
     --primary-color: #6366f1;
 }
+hr{
+    margin: 2rem 0rem;
+}
 /**container**/
+
 .container{
     padding: 0rem 1 rem;
 }
