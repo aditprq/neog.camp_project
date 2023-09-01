@@ -22,7 +22,6 @@ hr{
 .link{
     text-decoration: none;
     padding: 0.5rem 1rem;
-    color: white;
 }
 .primarylink{
     background-color:var(--primary-color);
@@ -47,5 +46,16 @@ hr{
 .navigation{
     background-color: var(--primary-color);
     color: white;
+    padding: 1rem;
+}
+.navigation .nav-brand{
+    font-weight: bold;
+    font-size: medium;
+}
+.navigation .link{
+    color: white;
+}
+.navigation .link-active{
+    font-weight: bold;
 }
 
