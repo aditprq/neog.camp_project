@@ -4,6 +4,7 @@ body{
 }
 :root{
     --primary-color: #6366f1;
+    --off-white:#f1f5f9;
     --dark-gray:#6b7280;
 }
 hr{
@@ -77,4 +78,18 @@ hr{
 .hero .hero-heading .heading-inverterd{
 color: var(--primary-color);
 }
+
+/**sections**/
+.section{
+    padding: 2rem;
+}
+.section  h1{
+text-align: center;
+}
+
+.ow{
+    padding: 2rem;
+background-color: var(--off-white);
+}
+
 
