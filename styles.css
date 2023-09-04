@@ -145,3 +145,16 @@ text-align: center;
 .margin-md{
     margin: 2rem;
 }
+
+.skill{
+    display: inline-block;
+    margin: 10px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.skill img{
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+}
